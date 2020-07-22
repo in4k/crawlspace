@@ -1,5 +1,5 @@
 # crawlspace
-1k by ferris and decypher
+1k by ferris and decipher
 
 sourcecode came with the release zip
 
